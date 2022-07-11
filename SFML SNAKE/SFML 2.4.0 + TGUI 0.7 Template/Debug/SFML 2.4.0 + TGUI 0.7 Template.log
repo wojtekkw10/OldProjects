@@ -1,0 +1,5 @@
+﻿  main.cpp
+     Creating library c:\users\wojte\onedrive\documents\visual studio 2015\Projects\SFML 2.4.0 + TGUI 0.7 Template\Debug\SFML 2.4.0 + TGUI 0.7 Template.lib and object c:\users\wojte\onedrive\documents\visual studio 2015\Projects\SFML 2.4.0 + TGUI 0.7 Template\Debug\SFML 2.4.0 + TGUI 0.7 Template.exp
+sfml-main-d.lib(MainWin32.cpp.obj) : warning LNK4099: PDB 'vc140.pdb' was not found with 'sfml-main-d.lib(MainWin32.cpp.obj)' or at 'c:\users\wojte\onedrive\documents\visual studio 2015\Projects\SFML 2.4.0 + TGUI 0.7 Template\Debug\vc140.pdb'; linking object as if no debug info
+  SFML 2.4.0 + TGUI 0.7 Template.vcxproj -> c:\users\wojte\onedrive\documents\visual studio 2015\Projects\SFML 2.4.0 + TGUI 0.7 Template\Debug\SFML 2.4.0 + TGUI 0.7 Template.exe
+  SFML 2.4.0 + TGUI 0.7 Template.vcxproj -> c:\users\wojte\onedrive\documents\visual studio 2015\Projects\SFML 2.4.0 + TGUI 0.7 Template\Debug\SFML 2.4.0 + TGUI 0.7 Template.pdb (Full PDB)
