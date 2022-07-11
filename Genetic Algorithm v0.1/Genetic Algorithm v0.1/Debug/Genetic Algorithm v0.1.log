@@ -1,0 +1,16 @@
+﻿  GeneticAlgorithm.cpp
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(22): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(27): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(32): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(64): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(70): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(75): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(85): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(102): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(124): warning C4018: '<': signed/unsigned mismatch
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(132): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\wojte\onedrive\documents\visual studio 2015\projects\genetic algorithm v0.1\genetic algorithm v0.1\geneticalgorithm.cpp(160): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Genetic Algorithm v0.1.vcxproj -> C:\Users\wojte\OneDrive\Documents\Visual Studio 2015\Projects\Genetic Algorithm v0.1\Debug\Genetic Algorithm v0.1.exe
+  Genetic Algorithm v0.1.vcxproj -> C:\Users\wojte\OneDrive\Documents\Visual Studio 2015\Projects\Genetic Algorithm v0.1\Debug\Genetic Algorithm v0.1.pdb (Full PDB)

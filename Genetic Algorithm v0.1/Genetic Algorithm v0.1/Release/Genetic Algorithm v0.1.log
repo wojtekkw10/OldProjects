@@ -1,0 +1,12 @@
+﻿  main.cpp
+main.cpp(21): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+main.cpp(29): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+main.cpp(37): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+main.cpp(52): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 298 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Genetic Algorithm v0.1.vcxproj -> E:\lol\Portfolio\Genetic Algorithm v0.1\Release\Genetic Algorithm v0.1.exe
+  Genetic Algorithm v0.1.vcxproj -> E:\lol\Portfolio\Genetic Algorithm v0.1\Release\Genetic Algorithm v0.1.pdb (Full PDB)
